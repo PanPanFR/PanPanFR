@@ -20,8 +20,7 @@
 <h3 align="center">A passionate Full-Stack Developer from Indonesia 🇮🇩</h3>
 
 <p align="center">
-  <img src="https://i.gifer.com/5ZLO.gif" width="60%" valign="middle" />
-  <img src="https://i.gifer.com/PYh.gif" width="60" valign="middle" />
+  <img src="https://i.gifer.com/Vp3L.gif">
 </p>
 
 ### 💫 About Me: <img src="https://github.com/user-attachments/assets/bd7cf1fd-fbbe-4d07-b7a5-eb1afea30365" width="35" />
@@ -34,8 +33,7 @@
 - ⚡ &nbsp; Fun fact: **I can solve a Rubik's cube in under a minute!**
 
 <p align="center">
-  <img src="https://i.gifer.com/5ZLO.gif" width="60%" valign="middle" />
-  <img src="https://i.gifer.com/PYh.gif" width="60" valign="middle" />
+  <img src="https://i.gifer.com/Vp3L.gif">
 </p>
 
 ### 💻 Tech Stack:
@@ -94,8 +92,7 @@ Here are some of the technologies I've been working with:
 </p>
 
 <p align="center">
-  <img src="https://i.gifer.com/5ZLO.gif" width="90%" valign="middle" />
-  <img src="https://i.gifer.com/PYh.gif" width="60" valign="middle" />
+  <img src="https://i.gifer.com/Vp3L.gif">
 </p>
 
 ### 📊 GitHub Stats: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="35" height="35" />
@@ -108,8 +105,7 @@ Here are some of the technologies I've been working with:
 </p>
 
 <p align="center">
-  <img src="https://i.gifer.com/5ZLO.gif" width="90%" valign="middle" />
-  <img src="https://i.gifer.com/PYh.gif" width="60" valign="middle" />
+  <img src="https://i.gifer.com/Vp3L.gif">
 </p>
 
 ### 🏆 GitHub Trophies
@@ -118,8 +114,7 @@ Here are some of the technologies I've been working with:
 </p>
 
 <p align="center">
-  <img src="https://i.gifer.com/5ZLO.gif" width="90%" valign="middle" />
-  <img src="https://i.gifer.com/PYh.gif" width="60" valign="middle" />
+  <img src="https://i.gifer.com/Vp3L.gif">
 </p>
 
 <p align="center">
