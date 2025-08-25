@@ -21,26 +21,7 @@
 
 ---
 
-### 💫 About Me: 
-
-### 💫 About Me: 
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>🔭 &nbsp; I’m currently working on <b>a fintech mobile app to improve financial literacy.</b></li>
-        <li>👯 &nbsp; I’m looking to collaborate on <b>open-source projects related to developer tools or AI.</b></li>
-        <li>🤝 &nbsp; I’m looking for help with <b>advanced Docker and Kubernetes configurations.</b></li>
-        <li>🌱 &nbsp; I’m currently learning <b>Go (Golang) and advanced concepts in System Design.</b></li>
-        <li>💬 &nbsp; Ask me about <b>JavaScript, Python, React, NestJS, and cloud deployment.</b></li>
-        <li>⚡ &nbsp; Fun fact: <b>I can solve a Rubik's cube in under a minute!</b></li>
-      </ul>
-    </td>
-    <td>
-      <img src="https://drive.usercontent.google.com/download?id=1HXhqbKnrG5dvIoYYBbFxp_Qk6Rjk3wiu&export=download&authuser=0&confirm=t&uuid=53f75e4e-d6eb-42b1-bdc9-e300fc68841f&at=AN8xHorN9ARBlnJGgShot3e9os-I:1756106924597" alt="coding gif" width="180"/>
-    </td>
-  </tr>
-</table>
+### 💫 About Me: ![code](https://github.com/user-attachments/assets/bd7cf1fd-fbbe-4d07-b7a5-eb1afea30365)
 
 - 🔭 &nbsp; I’m currently working on **a fintech mobile app to improve financial literacy.**
 - 👯 &nbsp; I’m looking to collaborate on **open-source projects related to developer tools or AI.**
