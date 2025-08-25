@@ -19,7 +19,9 @@
 </h1>
 <h3 align="center">A passionate Full-Stack Developer from Indonesia 🇮🇩</h3>
 
----
+<p align="center">
+  <img src="https://i.gifer.com/Vp3L.gif">
+</p>
 
 ### 💫 About Me: <img src="https://github.com/user-attachments/assets/bd7cf1fd-fbbe-4d07-b7a5-eb1afea30365" width="35" />
 
@@ -30,9 +32,11 @@
 - 💬 &nbsp; Ask me about **JavaScript, Python, React, NestJS, and cloud deployment.**
 - ⚡ &nbsp; Fun fact: **I can solve a Rubik's cube in under a minute!**
 
----
+<p align="center">
+  <img src="https://i.gifer.com/Vp3L.gif">
+</p>
 
-### 💻 Tech Stack: 
+### 💻 Tech Stack:
 Here are some of the technologies I've been working with:
 
 <br/>
@@ -87,7 +91,9 @@ Here are some of the technologies I've been working with:
   <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" alt="Twilio"/>
 </p>
 
----
+<p align="center">
+  <img src="https://i.gifer.com/Vp3L.gif">
+</p>
 
 ### 📊 GitHub Stats: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="35" height="35" />
 <p align="center">
@@ -98,18 +104,21 @@ Here are some of the technologies I've been working with:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanPanFR&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
 </p>
 
----
+<p align="center">
+  <img src="https://i.gifer.com/Vp3L.gif">
+</p>
 
 ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PanPanFR&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
----
+<p align="center">
+  <img src="https://i.gifer.com/Vp3L.gif">
+</p>
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=PanPanFR&icon=0&color=0" alt="Visitor Count"/>
   </a>
 </p>
-
