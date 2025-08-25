@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm9zb2NqaWI3dWJ6NGF0N3NlY3AyMTlmMWp4ejZjNHh0M3ZxZHppMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif)" width="100"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm9zb2NqaWI3dWJ6NGF0N3NlY3AyMTlmMWp4ejZjNHh0M3ZxZHppMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"/>
 </div>
 
 <div id="badges" align="center">
@@ -48,7 +48,7 @@
   <img src="https://i.gifer.com/Vp3L.gif" width="1000" height="40">
 </p>
 
-### <img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWlobWRrbG1tcjZ5czNya252eGVmeHl1OG5sYThicTIxdXJsb2VwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HvekzBaREHxlEwvlOS/giphy.gif)" width="35px"> Tech Stack
+### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWlobWRrbG1tcjZ5czNya252eGVmeHl1OG5sYThicTIxdXJsb2VwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HvekzBaREHxlEwvlOS/giphy.gif" width="35px"> Tech Stack
 
 **Languages**
 <p>
