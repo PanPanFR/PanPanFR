@@ -22,7 +22,7 @@
 
 ---
 
-### 💫 About Me: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smirking%20Face%20with%20Sunglasses.png" alt="Smirking Face with Sunglasses" width="35" height="35" />
+### 💫 About Me: ![icons8-code](https://github.com/user-attachments/assets/99426e3f-776a-4b48-adf5-9d3f18a1fc10)
 - 🔭 &nbsp; I’m currently working on **a fintech mobile app to improve financial literacy.**
 - 👯 &nbsp; I’m looking to collaborate on **open-source projects related to developer tools or AI.**
 - 🤝 &nbsp; I’m looking for help with **advanced Docker and Kubernetes configurations.**
