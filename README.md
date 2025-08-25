@@ -23,7 +23,7 @@
   <img src="https://i.gifer.com/Vp3L.gif" style="width: 100%; height: auto;">
 </p>
 
-### <img src="https://img.icons8.com/plasticine/100/waving-hand.png" width="35"> About Me:
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> About Me:
 
 - 🔭 &nbsp; I’m currently working on **a fintech mobile app to improve financial literacy.**
 - 👯 &nbsp; I’m looking to collaborate on **open-source projects related to developer tools or AI.**
@@ -36,7 +36,7 @@
   <img src="https://i.gifer.com/Vp3L.gif" style="width: 100%; height: auto;">
 </p>
 
-### <img src="https://img.icons8.com/fluency/48/source-code.png" width="30"> Tech Stack:
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" height="35" /> Tech Stack:
 Here are some of the technologies I've been working with:
 
 <br/>
@@ -95,7 +95,7 @@ Here are some of the technologies I've been working with:
   <img src="https://i.gifer.com/Vp3L.gif" style="width: 100%; height: auto;">
 </p>
 
-### <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="35"> GitHub Stats:
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="35" height="35" /> GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PanPanFR&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
   <br/>
@@ -108,7 +108,7 @@ Here are some of the technologies I've been working with:
   <img src="https://i.gifer.com/Vp3L.gif" style="width: 100%; height: auto;">
 </p>
 
-### <img src="https://img.icons8.com/fluency/48/trophy.png" width="35"> GitHub Trophies
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="35" height="35" /> GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PanPanFR&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
