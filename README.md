@@ -37,7 +37,7 @@
   <img src="https://i.gifer.com/Vp3L.gif" width="1000" height="40">
 </p>
 
-### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnhzbmVpOWY5MXc0NGszOHY5dHdicHd4M2FuZWlvaGVkM3Ezd2llbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/23D8NR89IoZUC9jgsO/giphy.gif" width="35px"> Socials
+### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamNiYjN5djlxOXF2ejRqMWYxODFndmN3bzY3cGw0OTUxMWFmaHNjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/23D8NR89IoZUC9jgsO/giphy.gif" width="35px"> Socials
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Pandu%20Fatikha%20Rahmadana) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Panpanfr) 
