@@ -23,7 +23,7 @@
   <img src="https://i.gifer.com/Vp3L.gif" style="width: 100%; height: auto;">
 </p>
 
-### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Waving Hand" width="35" /> About Me:
+### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> About Me
 
 - 🔭 &nbsp; I’m currently working on **a fintech mobile app to improve financial literacy.**
 - 👯 &nbsp; I’m looking to collaborate on **open-source projects related to developer tools or AI.**
@@ -36,7 +36,7 @@
   <img src="https://i.gifer.com/Vp3L.gif" style="width: 100%; height: auto;">
 </p>
 
-### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Tech Stack" width="35" /> Tech Stack:
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35px"> Tech Stack
 Here are some of the technologies I've been working with:
 
 <br/>
@@ -52,7 +52,7 @@ Here are some of the technologies I've been working with:
   <img src="https://i.gifer.com/Vp3L.gif" style="width: 100%; height: auto;">
 </p>
 
-### <img src="https://raw.githubusercontent.com/prathimacode-hub/prathimacode-hub/main/Assets/Geek.gif" alt="Stats" width="40" /> GitHub Stats:
+### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="35px"> GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PanPanFR&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
   <br/>
@@ -65,7 +65,7 @@ Here are some of the technologies I've been working with:
   <img src="https://i.gifer.com/Vp3L.gif" style="width: 100%; height: auto;">
 </p>
 
-### <img src="https://raw.githubusercontent.com/prathimacode-hub/prathimacode-hub/main/Assets/Trophy.gif" alt="Trophy" width="35" /> GitHub Trophies
+### <img src="https://media.giphy.com/media/XbZzrbx4VQYVi/giphy.gif" width="35px"> GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PanPanFR&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
