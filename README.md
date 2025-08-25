@@ -20,7 +20,7 @@
 <h3 align="center">A passionate Full-Stack Developer from Indonesia 🇮🇩</h3>
 
 <p align="center">
-  <img src="https://i.gifer.com/5ZLO.gif" width="90%" valign="middle" />
+  <img src="https://i.gifer.com/5ZLO.gif" width="60%" valign="middle" />
   <img src="https://i.gifer.com/PYh.gif" width="60" valign="middle" />
 </p>
 
@@ -34,7 +34,7 @@
 - ⚡ &nbsp; Fun fact: **I can solve a Rubik's cube in under a minute!**
 
 <p align="center">
-  <img src="https://i.gifer.com/5ZLO.gif" width="90%" valign="middle" />
+  <img src="https://i.gifer.com/5ZLO.gif" width="60%" valign="middle" />
   <img src="https://i.gifer.com/PYh.gif" width="60" valign="middle" />
 </p>
 
