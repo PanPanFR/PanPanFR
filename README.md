@@ -21,7 +21,7 @@
 
 ---
 
-### 💫 About Me: ![code](https://github.com/user-attachments/assets/bd7cf1fd-fbbe-4d07-b7a5-eb1afea30365)
+### 💫 About Me: <img src="https://github.com/user-attachments/assets/bd7cf1fd-fbbe-4d07-b7a5-eb1afea30365" width="35" />
 
 - 🔭 &nbsp; I’m currently working on **a fintech mobile app to improve financial literacy.**
 - 👯 &nbsp; I’m looking to collaborate on **open-source projects related to developer tools or AI.**
