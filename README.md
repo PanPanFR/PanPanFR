@@ -23,7 +23,7 @@
   <img src="https://i.gifer.com/Vp3L.gif" style="width: 100%; height: auto;">
 </p>
 
-### <img src="https://img.icons8.com/plasticine/100/null/waving-hand.png" width="35"> About Me:
+### <img src="https://img.icons8.com/plasticine/100/waving-hand.png" width="35"> About Me:
 
 - 🔭 &nbsp; I’m currently working on **a fintech mobile app to improve financial literacy.**
 - 👯 &nbsp; I’m looking to collaborate on **open-source projects related to developer tools or AI.**
