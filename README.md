@@ -16,13 +16,32 @@
 
 <h1 align="center">
   Hi there, I'm Pandu Fatikha Rahmadana (PanPan)
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <h3 align="center">A passionate Full-Stack Developer from Indonesia 🇮🇩</h3>
 
 ---
 
-### 💫 About Me: https://camo.githubusercontent.com/ec5c8741e4ed88b1a5824e32558e15983dbaf6b46ca017418a32e39b4036ba3b/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966
+### 💫 About Me: 
+
+### 💫 About Me: 
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🔭 &nbsp; I’m currently working on <b>a fintech mobile app to improve financial literacy.</b></li>
+        <li>👯 &nbsp; I’m looking to collaborate on <b>open-source projects related to developer tools or AI.</b></li>
+        <li>🤝 &nbsp; I’m looking for help with <b>advanced Docker and Kubernetes configurations.</b></li>
+        <li>🌱 &nbsp; I’m currently learning <b>Go (Golang) and advanced concepts in System Design.</b></li>
+        <li>💬 &nbsp; Ask me about <b>JavaScript, Python, React, NestJS, and cloud deployment.</b></li>
+        <li>⚡ &nbsp; Fun fact: <b>I can solve a Rubik's cube in under a minute!</b></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://drive.usercontent.google.com/download?id=1HXhqbKnrG5dvIoYYBbFxp_Qk6Rjk3wiu&export=download&authuser=0&confirm=t&uuid=53f75e4e-d6eb-42b1-bdc9-e300fc68841f&at=AN8xHorN9ARBlnJGgShot3e9os-I:1756106924597" alt="coding gif" width="180"/>
+    </td>
+  </tr>
+</table>
+
 - 🔭 &nbsp; I’m currently working on **a fintech mobile app to improve financial literacy.**
 - 👯 &nbsp; I’m looking to collaborate on **open-source projects related to developer tools or AI.**
 - 🤝 &nbsp; I’m looking for help with **advanced Docker and Kubernetes configurations.**
@@ -32,7 +51,7 @@
 
 ---
 
-### 💻 Tech Stack: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Technology/Laptop.png" alt="Laptop" width="35" height="35" />
+### 💻 Tech Stack: 
 Here are some of the technologies I've been working with:
 
 <br/>
@@ -100,7 +119,7 @@ Here are some of the technologies I've been working with:
 
 ---
 
-### 🏆 GitHub Trophies <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="35" height="35" />
+### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PanPanFR&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
