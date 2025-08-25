@@ -6,9 +6,6 @@
   <a href="https://www.linkedin.com/in/pandu-fatikha-rahmada-429962188/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/PanpanFR">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
   <a href="https://panpanfr.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
   </a>
@@ -20,7 +17,7 @@
 <h3 align="center">An Information Systems student & aspiring Full-Stack Developer from Indonesia 🇮🇩</h3>
 
 <p align="center">
-  <img src="https://i.gifer.com/Vp3L.gif" width="1000" height="10">
+  <img src="https://i.gifer.com/Vp3L.gif" width="1000" height="40">
 </p>
 
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> About Me
@@ -33,7 +30,7 @@
 - ⚡ Fun fact: **I love solving problems logically — from coding challenges to Rubik’s cubes!**
 
 <p align="center">
-  <img src="https://i.gifer.com/Vp3L.gif" width="1000" height="20">
+  <img src="https://i.gifer.com/Vp3L.gif" width="1000" height="40">
 </p>
 
 ### <img src="https://media.giphy.com/media/jOeJsn3rz9YFyjC1io/giphy.gif" width="35px"> Socials
@@ -44,7 +41,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pandu.fathika22@gmail.com)  
 
 <p align="center">
-  <img src="https://i.gifer.com/Vp3L.gif" width="1000" height="20">
+  <img src="https://i.gifer.com/Vp3L.gif" width="1000" height="40">
 </p>
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35px"> Tech Stack
@@ -96,7 +93,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.gifer.com/Vp3L.gif" width="1000" height="20">
+  <img src="https://i.gifer.com/Vp3L.gif" width="1000" height="40">
 </p>
 
 ### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="35px"> GitHub Stats
@@ -109,5 +106,5 @@
 </p>
 
 <p align="center">
-  <img src="https://i.gifer.com/Vp3L.gif" width="1000" height="20">
+  <img src="https://i.gifer.com/Vp3L.gif" width="1000" height="40">
 </p>
