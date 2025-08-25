@@ -39,11 +39,23 @@
 
 ### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnhzbmVpOWY5MXc0NGszOHY5dHdicHd4M2FuZWlvaGVkM3Ezd2llbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/23D8NR89IoZUC9jgsO/giphy.gif" width="35px"> Socials
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Pandu%20Fatikha%20Rahmadana) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Panpanfr) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pandu-fatikha-rahmada-429962188) 
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/PanPanFR) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pandu.fathika22@gmail.com)  
+<p align="center">
+  <a href="https://facebook.com/Pandu%20Fatikha%20Rahmadana">
+    <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="40"/> 
+  </a>
+  <a href="https://instagram.com/Panpanfr">
+    <img src="https://media.giphy.com/media/Zd6j7Yx0Pj4s0/giphy.gif" width="40"/> 
+  </a>
+  <a href="https://linkedin.com/in/pandu-fatikha-rahmada-429962188">
+    <img src="https://media.giphy.com/media/kaBuXx3f6t6dFjv9Qz/giphy.gif" width="40"/> 
+  </a>
+  <a href="https://reddit.com/user/PanPanFR">
+    <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="40"/> 
+  </a>
+  <a href="mailto:pandu.fathika22@gmail.com">
+    <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="40"/> 
+  </a>
+</p>
 
 <p align="center">
   <img src="https://i.gifer.com/Vp3L.gif" width="1000" height="40">
@@ -101,7 +113,8 @@
   <img src="https://i.gifer.com/Vp3L.gif" width="1000" height="40">
 </p>
 
-### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="35px"> GitHub Stats
+### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhneGdzeTVtdnJxMTh1enR6M245b3IwOG04enJhajJwdWNyNHQ2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RVWSqOsgDAq0W3051o/giphy.gif" width="35px"> GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PanPanFR&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
   <br/>
