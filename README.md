@@ -23,7 +23,7 @@
   <img src="https://i.gifer.com/Vp3L.gif" style="width: 100%; height: auto;">
 </p>
 
-### 💫 About Me:
+### <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> About Me:
 
 - 🔭 &nbsp; I’m currently working on **a fintech mobile app to improve financial literacy.**
 - 👯 &nbsp; I’m looking to collaborate on **open-source projects related to developer tools or AI.**
@@ -36,7 +36,7 @@
   <img src="https://i.gifer.com/Vp3L.gif" style="width: 100%; height: auto;">
 </p>
 
-### <img src="https://github.com/user-attachments/assets/bd7cf1fd-fbbe-4d07-b7a5-eb1afea30365" width="30"> Tech Stack:
+### <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30"> Tech Stack:
 Here are some of the technologies I've been working with:
 
 <br/>
@@ -68,4 +68,57 @@ Here are some of the technologies I've been working with:
 **Databases:**
 <p>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/mysql-44
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase"/>
+</p>
+
+**DevOps & Cloud:**
+<p>
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify"/>
+  <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
+</p>
+
+**Tools & Others:**
+<p>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
+  <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn"/>
+  <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" alt="Electron.js"/>
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" alt="Twilio"/>
+</p>
+
+<p align="center">
+  <img src="https://i.gifer.com/Vp3L.gif" style="width: 100%; height: auto;">
+</p>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="35"> GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PanPanFR&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=PanPanFR&theme=dark&hide_border=false" alt="GitHub Streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanPanFR&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://i.gifer.com/Vp3L.gif" style="width: 100%; height: auto;">
+</p>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="35"> GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PanPanFR&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://i.gifer.com/Vp3L.gif" style="width: 100%; height: auto;">
+</p>
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=PanPanFR&icon=0&color=0" alt="Visitor Count"/>
+  </a>
+</p>
