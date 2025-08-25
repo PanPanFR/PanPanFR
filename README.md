@@ -33,7 +33,7 @@
 - ⚡ Fun fact: **I love solving problems logically — from coding challenges to Rubik’s cubes!**
 
 <p align="center">
-  <img src="https://i.gifer.com/Vp3L.gif" width="1000" height="10">
+  <img src="https://i.gifer.com/Vp3L.gif" width="1000" height="20">
 </p>
 
 ### <img src="https://media.giphy.com/media/jOeJsn3rz9YFyjC1io/giphy.gif" width="35px"> Socials
@@ -44,7 +44,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pandu.fathika22@gmail.com)  
 
 <p align="center">
-  <img src="https://i.gifer.com/Vp3L.gif" width="1000" height="10">
+  <img src="https://i.gifer.com/Vp3L.gif" width="1000" height="20">
 </p>
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35px"> Tech Stack
@@ -96,7 +96,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.gifer.com/Vp3L.gif" width="1000" height="10">
+  <img src="https://i.gifer.com/Vp3L.gif" width="1000" height="20">
 </p>
 
 ### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="35px"> GitHub Stats
@@ -109,18 +109,5 @@
 </p>
 
 <p align="center">
-  <img src="https://i.gifer.com/Vp3L.gif" width="1000" height="10">
+  <img src="https://i.gifer.com/Vp3L.gif" width="1000" height="20">
 </p>
-
-### <img src="https://media.giphy.com/media/XbZzrbx4VQYVi/giphy.gif" width="35px"> GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PanPanFR&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</p>
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=PanPanFR&icon=0&color=0" alt="Visitor Count"/>
-  </a>
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
