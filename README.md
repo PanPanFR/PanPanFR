@@ -16,8 +16,9 @@
 </h1>
 <h3 align="center">
   An Information Systems student & aspiring Full-Stack Developer from Indonesia&nbsp;
-  <img src="https://i.gifer.com/fx8H.gif" width="22" height="14" alt="Flag of Indonesia">
+  <img src="https://media.giphy.com/media/flag-Indonesia-giphy-id/giphy.gif" width="25" alt="Indonesia Flag">
 </h3>
+
 
 <p align="center">
   <img src="https://i.gifer.com/Vp3L.gif" width="1000" height="40">
@@ -36,7 +37,7 @@
   <img src="https://i.gifer.com/Vp3L.gif" width="1000" height="40">
 </p>
 
-### <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/gifs/handshake.gif" width="35px" alt="handshake"> Socials
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Pandu%20Fatikha%20Rahmadana) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Panpanfr) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pandu-fatikha-rahmada-429962188) 
