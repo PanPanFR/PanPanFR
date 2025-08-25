@@ -16,10 +16,8 @@
 </h1>
 <h3 align="center">
   An Information Systems student & aspiring Full-Stack Developer from Indonesia&nbsp;
-  <img src="https://media.giphy.com/media/Ig9OURpzw6yJ275nRy/giphy.gif" width="25" alt="Indonesia Flag">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnRiNWEzcDB2eXhvZ2FzbzRqdHdqa2UxZmhhZHRrcTd2dmdsNTR1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ibLnzjD6OJc2bo4yxO/giphy.gif" width="30" alt="Indonesia Flag">
 </h3>
-
-
 
 <p align="center">
   <img src="https://i.gifer.com/Vp3L.gif" width="1000" height="40">
@@ -38,7 +36,8 @@
   <img src="https://i.gifer.com/Vp3L.gif" width="1000" height="40">
 </p>
 
-### <img src="https://media.giphy.com/media/MHo4aw7N86T7W/giphy.gif" width="35px" alt="Hi"> Socials
+### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnhzbmVpOWY5MXc0NGszOHY5dHdicHd4M2FuZWlvaGVkM3Ezd2llbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/23D8NR89IoZUC9jgsO/giphy.gif" width="35px"> Socials
+
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Pandu%20Fatikha%20Rahmadana) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Panpanfr) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pandu-fatikha-rahmada-429962188) 
