@@ -15,14 +15,14 @@
 </div>
 
 <h1 align="center">
-  Hi there, I'm [Nama Anda]
+  Hi there, I'm Pandu Fatikha Rahmadana (PanPan)
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<h3 align="center">A passionate [Full-Stack Developer / Backend Engineer / etc.] from Indonesia 🇮🇩</h3>
+<h3 align="center">A passionate Full-Stack Developer from Indonesia 🇮🇩</h3>
 
 ---
 
-### 💫 About Me:
+### 💫 About Me: <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2VpaXo1M2h1a3Jzcmw5dnRzdm9uc2t2d2RsN2t1ZGR6dGcyend1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Wj7lNjMNDx1e8/giphy.gif" width="30">
 - 🔭 &nbsp; I’m currently working on **a fintech mobile app to improve financial literacy.**
 - 👯 &nbsp; I’m looking to collaborate on **open-source projects related to developer tools or AI.**
 - 🤝 &nbsp; I’m looking for help with **advanced Docker and Kubernetes configurations.**
@@ -32,7 +32,7 @@
 
 ---
 
-### 💻 Tech Stack:
+### 💻 Tech Stack: <img src="https://media.giphy.com/media/fAnzw6vI4koY8/giphy.gif" width="45">
 Here are some of the technologies I've been working with:
 
 <br/>
@@ -89,7 +89,7 @@ Here are some of the technologies I've been working with:
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats: <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd29pY2t4bGMzNnU0d3JzZXQ1M3N2dTY4eDQzb29pZXpwY2w3c2U2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/EO7emaFCt0YI8/giphy.gif" width="40">
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PanPanFR&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
   <br/>
@@ -100,7 +100,7 @@ Here are some of the technologies I've been working with:
 
 ---
 
-### 🏆 GitHub Trophies
+### 🏆 GitHub Trophies <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Z5bjlxY3E0b2Q0ZDNpemprNTM0eHM5MTd0Z3JzYnphMHFic3RsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5nmXQdGgRaxq1T1n4g/giphy.gif" width="35">
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PanPanFR&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
