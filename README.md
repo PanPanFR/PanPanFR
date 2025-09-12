@@ -53,68 +53,152 @@
 
 **Languages & Styling**
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SASS-hotpink?style=flat&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  </a>
+  <a href="https://sass-lang.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/SASS-hotpink?style=flat&logo=sass&logoColor=white" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  </a>
 </p>
 
 **Frameworks & Libraries**
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Express.js-404d59?style=flat&logo=express&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chart.js-F5788D?style=flat&logo=chart.js&logoColor=white" />
+  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  </a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  </a>
+  <a href="https://nestjs.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
+  </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Express.js-404d59?style=flat&logo=express&logoColor=61DAFB" />
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white" />
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+  </a>
+  <a href="https://www.electronjs.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white" />
+  </a>
+  <a href="https://www.chartjs.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Chart.js-F5788D?style=flat&logo=chart.js&logoColor=white" />
+  </a>
 </p>
 
 **Build Tools & Package Managers**
 <p>
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Esbuild-FFCF00?style=flat&logo=esbuild&logoColor=black" />
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/PNPM-4a4a4a?style=flat&logo=pnpm&logoColor=f69220" />
-  <img src="https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white" />
+  <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white" />
+  </a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+  </a>
+  <a href="https://esbuild.github.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Esbuild-FFCF00?style=flat&logo=esbuild&logoColor=black" />
+  </a>
+  <a href="https://www.npmjs.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white" />
+  </a>
+  <a href="https://pnpm.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/PNPM-4a4a4a?style=flat&logo=pnpm&logoColor=f69220" />
+  </a>
+  <a href="https://bun.sh/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white" />
+  </a>
 </p>
 
 **Databases & Backend**
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postgres-316192?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DD0031?style=flat&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Postgres-316192?style=flat&logo=postgresql&logoColor=white" />
+  </a>
+  <a href="https://redis.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Redis-DD0031?style=flat&logo=redis&logoColor=white" />
+  </a>
+  <a href="https://supabase.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  </a>
 </p>
 
 **Cloud & Deployment**
 <p>
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <a href="https://cloud.google.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" />
+  </a>
+  <a href="https://vercel.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.netlify.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
+  </a>
+  <a href="https://render.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white" />
+  </a>
+  <a href="https://www.nginx.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  </a>
 </p>
 
 **DevOps & Tools**
 <p>
-  <img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=black" />
-  <img src="https://img.shields.io/badge/ElasticSearch-005571?style=flat&logo=elasticsearch&logoColor=white" />
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white" />
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/features/actions" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+  </a>
+  <a href="https://jwt.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
+  </a>
+  <a href="https://eslint.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white" />
+  </a>
+  <a href="https://prettier.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=black" />
+  </a>
+  <a href="https://www.elastic.co/elasticsearch/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/ElasticSearch-005571?style=flat&logo=elasticsearch&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
