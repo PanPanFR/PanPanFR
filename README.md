@@ -78,17 +78,8 @@
   <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
   </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black" />
-  </a>
   <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-  </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D" />
   </a>
   <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Express.js-404d59?style=flat&logo=express&logoColor=61DAFB" />
@@ -175,9 +166,6 @@
 
 **DevOps & Tools**
 <p>
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white" />
-  </a>
   <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
