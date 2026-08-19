@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/pandu-fatikha-rahmada-429962188/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://panpanfr.github.io/">
+  <a href="https://panpanfr.my.id/">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
@@ -17,7 +17,7 @@
 
 <h3 align="center">
   Software Engineer from Indonesia
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnRiNWEzcDB2eXhvZ2FzbzRqdHdqa2UxZmhhZHRrcTd2dmdsNTR1NiZlcD12MV9pbnRlcm5hbGdfZ2lmX3byYnlfaWQmY3Q9cw/ibLnzjD6OJc2bo4yxO/giphy.gif" width="30" alt="Indonesia Flag">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnRiNWEzcDB2eXhvZ2FzbzRqdHdqa2UxZmhhZHRrcTd2dmdsNTR1NiZlcD12MV9pbnRlcm5hbGdfZ2lmX2J5X2lkJmN0PWNz/ibLnzjD6OJc2bo4yxO/giphy.gif" width="30" alt="Indonesia Flag">
 </h3>
 
 <p align="center">
@@ -38,8 +38,6 @@
 
 ### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamNiYjN5djlxOXF2ejRqMWYxODFndmN3bzY3cGw0OTUxMWFmaHNjbyZlcD12MV9pbnRlcm5hbGdfZ2lmX3byYnlfaWQmY3Q9cw/23D8NR89IoZUC9jgsO/giphy.gif" width="35px"> Socials
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook\&logoColor=white)](https://facebook.com/Pandu%20Fatikha%20Rahmadana)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/Panpanfr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn\&logoColor=white)](https://linkedin.com/in/pandu-fatikha-rahmada-429962188)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit\&logoColor=white)](https://reddit.com/user/PanPanFR)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:pandu.fathika22@gmail.com)
@@ -102,7 +100,7 @@
   <img src="https://i.gifer.com/Vp3L.gif" width="1000" height="40">
 </p>
 
-### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm5iNnhidnB6MGgzdXNzYWo4OGJ6Nnl4bnVvOThhbXd4ODduYmZoeCZlcD12MV9pbnRlcm5hbGdfZ2lmX3byYnlfaWQmY3Q9cw/cj87CxfRtrUifF3Ryk/giphy.gif" width="35px"> GitHub Stats
+### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm5iNnhidnB6MGgzdXNzYWo4OGJ6Nnl4bnVvOThhbXd4ODduYmZoeCZlcD12MV9pbnRlcm5hbGdfZ2lmX2J5X2lkJmN0PWNz/cj87CxfRtrUifF3Ryk/giphy.gif" width="35px"> GitHub Stats
 
 <p align="center">
   <img src="https://github-stats-dusky-mu.vercel.app/api?username=PanPanFR&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
