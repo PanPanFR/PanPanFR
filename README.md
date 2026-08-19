@@ -196,11 +196,11 @@
 ### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm5iNnhidnB6MGgzdXNzYWo4OGJ6Nnl4bnVvOThhbXd4ODduYmZoeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cj87CxfRtrUifF3Ryk/giphy.gif" width="35px"> GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PanPanFR&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
+  <img src="https://github-stats-dusky-mu.vercel.app/api?username=PanPanFR&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=PanPanFR&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://github-stats-dusky-mu.vercel.app/?user=PanPanFR&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanPanFR&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+  <img src="https://github-stats-dusky-mu.vercel.app/api/top-langs/?username=PanPanFR&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
 </p>
 
 <p align="center">
