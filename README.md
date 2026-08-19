@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/pandu-fatikha-rahmada-429962188/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://panpanfr.github.io/">
+  <a href="https://panpanfr.my.id/">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
