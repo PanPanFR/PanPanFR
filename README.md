@@ -113,7 +113,3 @@
 <p align="center">
   <img src="https://i.gifer.com/Vp3L.gif" width="1000" height="40">
 </p>
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=PanPanFR\&theme=tokyonight\&no-frame=false\&no-bg=false\&margin-w=4)
